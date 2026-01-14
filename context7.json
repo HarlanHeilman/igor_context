@@ -1,4 +1,19 @@
 {
   "url": "https://context7.com/harlanheilman/igor_context",
-  "public_key": "pk_w0FHRuBIDiWFA2xuHdOR5"
+  "public_key": "pk_w0FHRuBIDiWFA2xuHdOR5",
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Igor Pro Programming Language Documentation",
+  "description": "Comprehensive context library for programming in Igor Pro, providing LLMs with access to official documentation, procedure examples, and help files.",
+  "folders": [],
+  "excludeFolders": [],
+  "excludeFiles": [
+    "*.pdf"
+  ],
+  "rules": [
+    "Igor Pro uses waves (multidimensional arrays) as primary data structures",
+    "Igor Pro features a compiled, C-like programming language",
+    "Use procedure files (.ipf) for Igor Pro code",
+    "Reference documentation uses hook functions for command reference",
+    "Follow Igor Pro naming conventions and syntax rules"
+  ]
 }
