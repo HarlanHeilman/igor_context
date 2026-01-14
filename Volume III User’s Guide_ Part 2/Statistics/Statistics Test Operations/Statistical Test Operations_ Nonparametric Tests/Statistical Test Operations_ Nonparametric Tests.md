@@ -1,0 +1,61 @@
+# Statistical Test Operations: Nonparametric Tests
+
+Chapter III-12 — Statistics
+III-389
+Tests for Multiple or Multidimensional Waves
+Statistical Test Operations for Angular/Circular Data
+Statistical Test Operations: Nonparametric Tests
+Analysis Method
+Comments
+StatsANOVA1Test
+One-way analysis of variances
+StatsANOVA2Test
+Two-factor analysis of variances
+StatsANOVA2RMTest
+Two-factor repeated measure ANOVA
+StatsCochranTest
+Randomized block or repeated measures test
+StatsContingencyTable
+Contingency table analysis
+StatsDunnettTest
+Comparing multiple groups to a control
+StatsFriedmanTest
+Nonparametric ANOVA
+StatsNPMCTest
+Nonparametric multiple comparison tests
+StatsScheffeTest
+Tests equality of means
+StatsTukeyTest
+Multiple comparisons based on means
+StatsWatsonWilliamsTest
+Compares mean values of angular distributions
+StatsWheelerWatsonTest
+Compares two angular distributions
+StatsAngularDistanceTest
+StatsHodgesAjneTest
+StatsCircularMoments
+StatsWatsonUSquaredTest
+StatsCircularMeans
+StatsWatsonWilliamsTest
+StatsCircularTwoSampleTest
+StatsWheelerWatsonTest
+StatsCircularCorrelationTest
+Operation
+Comments
+StatsAngularDistanceTest
+StatsFriedmanTest
+StatsCircularTwoSampleTest
+Parametric or nonparametric
+StatsCircularCorrelationTest
+Parametric or nonparameteric
+StatsCircularMeans
+Parametric or nonparameteric
+StatsHodgesAjneTest
+StatsKendallTauTest
+StatsKWTest
+StatsNPMCTest
+StatsNPNominalSRTest
+StatsRankCorrelationTest
+StatsWatsonUSquaredTest
+StatsWheelerWatsonTest
+StatsWilcoxonRankTest
